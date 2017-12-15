@@ -1,0 +1,17 @@
+body {
+	margin: 0;
+	padding: 0;
+	background: #2d2f39;
+}
+
+#colors {
+	width: 100vw;
+	height: 10vh;
+	display: grid;
+	grid-template-columns: repeat(9, 1fr);
+}
+
+svg {
+	width: 5vw;
+	height: auto;
+}
